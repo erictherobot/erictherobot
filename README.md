@@ -31,6 +31,7 @@ Eric enjoys developing, solving problems and helping make the internet a more be
 - [LinkedIn](https://linkedin.com/in/erictherobot)
 
 #### FOLLOW ⚡
+- [Crunchbase](https://www.crunchbase.com/person/eric-david-smith)
 - [Twitter](https://twitter.com/erictherobot)
 - [LinkedIn](https://linkedin.com/in/erictherobot)
 - [YouTube](https://www.youtube.com/c/EricDavidSmith?sub_confirmation=1)
