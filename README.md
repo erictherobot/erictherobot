@@ -1,10 +1,10 @@
-### ⚡ ERIC DAVID SMITH ⚡
+### ERIC DAVID SMITH
 
 Eric enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place. 
 
-### PAST & PRESENT PROJECTS ⚡
+### PAST & PRESENT PROJECTS
 
-#### (WEB - NEXTJS) ⚡
+#### (WEB - NEXTJS)
 - [Colorful Dots, LLC](http://colorfuldots.com) - WE"RE HIRING! 
 - [Mad Story](http://madstory.com)
 - [KYWRD](http://kywrd.com)
@@ -19,18 +19,18 @@ Eric enjoys developing, solving problems and helping make the internet a more be
 - [Awesome List](https://apps.apple.com/us/app/awesome-list/id1318781522)
 - [Why Eleven](https://apps.apple.com/us/app/whyeleven/id1234009359)
 
-#### (WEB - SVELTE) ⚡
+#### (WEB - SVELTE)
 - [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE
 - [Eric David Smith](http://ericdavidsmith.com)
 
-#### (UNITY / C# - VIRTUAL REALITY) ⚡
+#### (UNITY / C# - VIRTUAL REALITY)
 - [Hang Out VR](https://sidequestvr.com/app/1391)
 
-#### HIRE ⚡
+#### HIRE
 - [Resume](https://colorfuldots.s3.amazonaws.com/eric-david-smith/eric-david-smith-resume-2020.pdf)
 - [LinkedIn](https://linkedin.com/in/erictherobot)
 
-#### FOLLOW ⚡
+#### FOLLOW
 - [Crunchbase](https://www.crunchbase.com/person/eric-david-smith)
 - [Twitter](https://twitter.com/erictherobot)
 - [LinkedIn](https://linkedin.com/in/erictherobot)
