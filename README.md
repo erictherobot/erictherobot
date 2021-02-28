@@ -42,6 +42,8 @@ Eric enjoys developing, solving problems and helping make the internet a more be
 - [Apple Music](https://music.apple.com/us/artist/eric-david-smith/1540321498)
 - [Recording The City Records](https://recordingthecity.com)
 
+[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **erictherobot/erictherobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
