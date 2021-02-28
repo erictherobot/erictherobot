@@ -1,6 +1,6 @@
 ### ERIC DAVID SMITH
 
-[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 Eric enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place. 
 
