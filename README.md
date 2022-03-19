@@ -1,6 +1,6 @@
 ### ERIC DAVID SMITH
 
-![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=radical_)
+![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=redical)
 
 
 [![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=radical_)](https://github.com/anuraghazra/github-readme-stats) 
