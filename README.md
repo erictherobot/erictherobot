@@ -1,10 +1,10 @@
 ### ERIC DAVID SMITH
 
-![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=redical)
+![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=radical_)
 
 
-[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
-![Erictherobot's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erictherobot&theme=radical&layout=compact)
+[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=radical_)](https://github.com/anuraghazra/github-readme-stats) 
+![Erictherobot's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erictherobot&theme=radical_&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erictherobot"></img>
 
