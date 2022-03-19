@@ -1,6 +1,12 @@
 ### ERIC DAVID SMITH
 
-[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=redical)
+
+ . | .
+--- | --- 
+[![Erictherobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) | ![Erictherobot's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erictherobot&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
 Eric enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place. 
 
@@ -43,18 +49,3 @@ Eric enjoys developing, solving problems and helping make the internet a more be
 - [Spotify Artist](https://open.spotify.com/artist/29ICzY0EqMgWD1icKgrnjh)
 - [Apple Music](https://music.apple.com/us/artist/eric-david-smith/1540321498)
 - [Recording The City Records](https://recordingthecity.com)
-
-<!--
-**erictherobot/erictherobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
