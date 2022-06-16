@@ -1,5 +1,5 @@
 ### ERIC DAVID SMITH
-
+<!-- 
 ![Erictherobot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=erictherobot&hide_border=true&theme=redical)
 
 
@@ -7,7 +7,7 @@
 <!-- ![Erictherobot's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erictherobot&theme=radical_&layout=compact)
  -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erictherobot"></img>
-
+ -->
 Eric enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place. 
 
 ### PAST & PRESENT PROJECTS
