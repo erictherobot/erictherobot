@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erictherobot"></img> -->
 
-Eric enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place. 
+I enjoy making digital products. 
 
 ### PAST & PRESENT PROJECTS
 
