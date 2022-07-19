@@ -11,6 +11,10 @@
 
 I enjoy making digital products. 
 
+#### Watch My Youtube Videos
+
+[![Fetching data using Deno Fresh Web Framework - It's Hyper Fast!!!](https://i.ytimg.com/vi/Qt-YQ0VmgCU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qt-YQ0VmgCU)
+
 ### PAST & PRESENT PROJECTS
 
 #### (WEB - NEXTJS)
