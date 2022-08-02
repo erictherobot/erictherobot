@@ -11,9 +11,9 @@
 
 I enjoy making digital products. 
 
-#### Watch My Youtube Videos
+#### Checkout My Youtube Videos
 
-[![Fetching data using Deno Fresh Web Framework - It's Hyper Fast!!!](https://i.ytimg.com/vi/Qt-YQ0VmgCU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qt-YQ0VmgCU)
+- [YouTube](https://www.youtube.com/ericdavidsmith)
 
 ### PAST & PRESENT PROJECTS
 
