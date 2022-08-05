@@ -21,7 +21,9 @@ I enjoy making digital products.
 - [Colorful Dots, LLC](http://colorfuldots.com) - WE"RE HIRING! 
 - [Mad Story](http://madstory.com)
 - [KYWRD](http://kywrd.com)
-- [Eric The Robot](http://erictherobot.com)
+
+#### (WEB - DENO)
+- [Eric David Smith](http://ericdavidsmith.com)
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
@@ -34,7 +36,6 @@ I enjoy making digital products.
 
 #### (WEB - SVELTE)
 - [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE
-- [Eric David Smith](http://ericdavidsmith.com)
 
 #### (UNITY / C# - VIRTUAL REALITY)
 - [Hang Out VR](https://sidequestvr.com/app/1391)
