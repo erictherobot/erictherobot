@@ -25,6 +25,7 @@ I enjoy making digital products.
 #### (WEB - DENO)
 - [Eric David Smith](http://ericdavidsmith.com)
 - [Remotely Hiring](http://remotelyhiring.com)
+- [Recording The City Records](https://recordingthecity.com)
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
@@ -55,4 +56,3 @@ I enjoy making digital products.
 - [SoundBetter](https://soundbetter.com/profiles/16640-eric-david-smith)
 - [Spotify Artist](https://open.spotify.com/artist/29ICzY0EqMgWD1icKgrnjh)
 - [Apple Music](https://music.apple.com/us/artist/eric-david-smith/1540321498)
-- [Recording The City Records](https://recordingthecity.com)
