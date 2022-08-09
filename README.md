@@ -20,10 +20,11 @@ I enjoy making digital products.
 #### (WEB - NEXTJS)
 - [Colorful Dots, LLC](http://colorfuldots.com) - WE"RE HIRING! 
 - [Mad Story](http://madstory.com)
-- [KYWRD](http://kywrd.com)
+- [Love Is Blank](http://loveisblank.com)
 
 #### (WEB - DENO)
 - [Eric David Smith](http://ericdavidsmith.com)
+- [Remotely Hiring](http://remotelyhiring.com)
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
