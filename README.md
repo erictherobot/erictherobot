@@ -13,7 +13,7 @@ I enjoy making digital products.
 
 #### Checkout My Youtube Videos
 
-- [YouTube](https://www.youtube.com/ericdavidsmith)
+- [YouTube](https://www.youtube.com/ericdavidsmith) - Music + Code === ❤️  
 
 ### PAST & PRESENT PROJECTS
 
@@ -26,6 +26,8 @@ I enjoy making digital products.
 - [Eric David Smith](http://ericdavidsmith.com)
 - [Remotely Hiring](http://remotelyhiring.com)
 - [Recording The City Records](https://recordingthecity.com)
+- [Before I Die I](https://beforeidiei.com) - WIP
+- [JOG BUY](https://jogbuy.com) - WIP
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
