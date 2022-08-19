@@ -31,6 +31,7 @@ I enjoy making digital products.
 - [Before I Die I](https://beforeidiei.com) - WIP
 - [JOG BUY](https://jogbuy.com) - WIP
 - [How To Program Code](https://howtoprogramcode.com) - WIP
+- [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :)
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
