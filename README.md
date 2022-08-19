@@ -13,7 +13,9 @@ I enjoy making digital products.
 
 #### Checkout My Youtube Videos
 
-- [YouTube](https://www.youtube.com/ericdavidsmith) - Music + Code === ❤️  
+- [YouTube](https://www.youtube.com/ericdavidsmith) - Music + Code === ❤️
+- [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
+- [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
 ### PAST & PRESENT PROJECTS
 
@@ -28,6 +30,7 @@ I enjoy making digital products.
 - [Recording The City Records](https://recordingthecity.com)
 - [Before I Die I](https://beforeidiei.com) - WIP
 - [JOG BUY](https://jogbuy.com) - WIP
+- [How To Program Code](https://howtoprogramcode.com) - WIP
 
 ### (NATIVE MOBILE - IOS) 
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
