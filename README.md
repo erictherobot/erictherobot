@@ -2,11 +2,13 @@
 
 Building things every day. 
 
+<!--
 ### My GitHub Stats
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=erictherobot&" alt="erictherobot" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&locale=en" alt="erictherobot" />
 </div>
+-->
 
 #### Checkout My Youtube Videos
 
