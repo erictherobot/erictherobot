@@ -1,6 +1,6 @@
 # ERIC DAVID SMITH
 
-Building things every day. 
+> Building things every day. I am self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. This mindset has made me more of a generalist rather than a specialist. 
 
 <!--
 ### My GitHub Stats
@@ -18,7 +18,7 @@ Building things every day.
 
 ## SOLO PROJECTS
 
-> I am self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. 
+> I'm great at starting things. I am not so great at maintaining things. 
 
 ### (WEB - NEXTJS)
 
