@@ -16,7 +16,7 @@ Building things every day.
 - [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
 - [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
-### PAST & PRESENT PROJECTS
+### PROJECTS
 
 #### (WEB - NEXTJS)
 - [Colorful Dots, LLC](http://colorfuldots.com) - WE"RE HIRING! 
