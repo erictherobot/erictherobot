@@ -18,12 +18,20 @@ Building things every day.
 
 ### SOLO PROJECTS
 
-#### (WEB - NEXTJS)
+----
+
+### (WEB - NEXTJS)
+
+----
+
 - [Colorful Dots, LLC](http://colorfuldots.com) - WE"RE HIRING! 
 - [Mad Story](http://madstory.com)
 - [Love Is Blank](http://loveisblank.com)
 
-#### (WEB - DENO)
+### (WEB - DENO)
+
+----
+
 - [Eric David Smith](http://ericdavidsmith.com)
 - [Remotely Hiring](http://remotelyhiring.com)
 - [Recording The City Records](https://recordingthecity.com)
@@ -33,6 +41,11 @@ Building things every day.
 - [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :)
 
 ### (NATIVE MOBILE - IOS) 
+
+Unfortunately, several of my IOS apps were recently removed from the app store due to lack of updates. Seriously Apple? Thanks for supporting the little indie devs. The apps worked, nothing needed to be updated. Your notification emails went to spam. Some of my first apps are still in the store. Without updates... with even older code. SMH. 
+
+----
+
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
 - [Color My Music](https://apps.apple.com/us/app/color-my-music/id1330987072)
 - [Mad Story](https://apps.apple.com/us/app/mad-story/id1433966606)
@@ -41,8 +54,14 @@ Building things every day.
 - [Awesome List](https://apps.apple.com/us/app/awesome-list/id1318781522)
 - [Why Eleven](https://apps.apple.com/us/app/whyeleven/id1234009359)
 
-#### (WEB - SVELTE)
-- [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE
+### (WEB - SVELTE)
+
+----
+
+- [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE - NEEDS REFRESHING
 
 #### (UNITY / C# - VIRTUAL REALITY)
-- [Hang Out VR](https://sidequestvr.com/app/1391)
+
+----- 
+
+- [Hang Out VR](https://sidequestvr.com/app/1391) - Let's Hang Out! It's multiplayer. Ping me if trying it.  
