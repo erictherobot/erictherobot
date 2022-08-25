@@ -18,7 +18,7 @@ Building things every day.
 
 ## SOLO PROJECTS
 
-> I'm Self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. 
+> I am self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. 
 
 ### (WEB - NEXTJS)
 
