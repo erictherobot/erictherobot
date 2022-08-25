@@ -1,4 +1,4 @@
-### ERIC DAVID SMITH
+# ERIC DAVID SMITH
 
 Building things every day. 
 
@@ -16,9 +16,9 @@ Building things every day.
 - [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
 - [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
-### SOLO PROJECTS
+## SOLO PROJECTS
 
-----
+> I'm Self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. 
 
 ### (WEB - NEXTJS)
 
