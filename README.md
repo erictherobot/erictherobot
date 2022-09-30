@@ -32,12 +32,12 @@
 
 ----
 
-- [Eric David Smith](http://ericdavidsmith.com)
-- [Remotely Hiring](http://remotelyhiring.com)
-- [Recording The City Records](https://recordingthecity.com)
+- [Eric David Smith](http://ericdavidsmith.com) - Launched July 1, 2022
+- [How To Program Code](https://howtoprogramcode.com) - Software Development Courses - Launched Sept 30, 2022
+- [Remotely Hiring](http://remotelyhiring.com) - Launched August 1, 2022
+- [Recording The City Records](https://recordingthecity.com) - Launched July 15, 2022
 - [Before I Die I](https://beforeidiei.com) - WIP
 - [JOG BUY](https://jogbuy.com) - WIP
-- [How To Program Code](https://howtoprogramcode.com) - WIP
 - [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :)
 
 ### (NATIVE MOBILE - IOS) 
