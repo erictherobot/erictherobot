@@ -34,9 +34,9 @@
 - [How To Program Code](https://howtoprogramcode.com) - Software Development Courses - Launched Sept 30, 2022
 - [Remotely Hiring](http://remotelyhiring.com) - Launched August 1, 2022
 - [Recording The City Records](https://recordingthecity.com) - Launched July 15, 2022
+- [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :) - Launched July 20, 2022
 - [Before I Die I](https://beforeidiei.com) - WIP
 - [JOG BUY](https://jogbuy.com) - WIP
-- [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :)
 
 ### (NATIVE MOBILE - IOS) 
 
