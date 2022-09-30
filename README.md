@@ -16,9 +16,7 @@
 - [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
 - [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
-## SOLO PROJECTS
-
-> I'm great at starting things. I am not so great at maintaining things. 
+## MY SOLO / WEEKEND PROJECTS
 
 ### (WEB - NEXTJS)
 
