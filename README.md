@@ -71,4 +71,11 @@ Unfortunately, several of my IOS apps were recently removed from the app store d
 
 ----- 
 
-- [Hang Out VR](https://sidequestvr.com/app/1391) - Let's Hang Out! It's multiplayer. Ping me if trying it.  
+- [Hang Out VR](https://sidequestvr.com/app/1391) - Let's Hang Out! It's multiplayer. Ping me if trying it.
+
+
+#### (VSCode Extensions)
+
+----- 
+
+- [Quote Replacer](https://marketplace.visualstudio.com/items?itemName=EricDavidSmith.quotereplacer) - Replace quotes in VSCode in one simple command.
