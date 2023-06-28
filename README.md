@@ -21,6 +21,7 @@
 ### (WEB - NEXTJS)
 
 ----
+- [Veterans AI](http://veteransai.vercel.app) - AI Powered Veterans Support Assistant - Launched June 28, 2023
 - [Entomology AI](http://entomologyai.vercel.app) - AI Powered Entomologist Assistant For Kids - Launched June 28, 2023
 - [Housing Court AI](http://www.housingcourtai.com) - AI Powered Housing Court Assistant - Launched June 28, 2023
 - [Family Court AI](http://www.familycourtai.com) - AI Powered Family Court Assistant - Launched June 27, 2023 
