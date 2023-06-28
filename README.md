@@ -10,13 +10,13 @@
 </div>
 -->
 
-#### Checkout My Youtube Videos
+#### Youtube Videos
 
 - [YouTube](https://www.youtube.com/ericdavidsmith) - Music + Code === ❤️
 - [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
 - [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
-## MY SOLO / WEEKEND PROJECTS
+## SOLO / WEEKEND PROJECTS
 
 ### (WEB - NEXTJS)
 
@@ -72,14 +72,14 @@ Unfortunately, several of my IOS apps were recently removed from the app store d
 
 - [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE - NEEDS REFRESHING
 
-#### (UNITY / C# - VIRTUAL REALITY)
+### (UNITY / C# - VIRTUAL REALITY)
 
 ----- 
 
 - [Hang Out VR](https://sidequestvr.com/app/1391) - Let's Hang Out! It's multiplayer. Ping me if trying it.
 
 
-#### (VSCode Extensions)
+### (VSCode Extensions)
 
 ----- 
 
