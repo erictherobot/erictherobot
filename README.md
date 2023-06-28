@@ -21,7 +21,7 @@
 ### (WEB - NEXTJS)
 
 ----
-- Entomology AI - AI Powered Entomologist Assistant For Kids - Climate change, species, origins, facts, and more - Coming soon. 
+- [Entomology AI](http://entomologyai.vercel.app) - AI Powered Entomologist Assistant For Kids - Launched June 28, 2023
 - [Housing Court AI](http://www.housingcourtai.com) - AI Powered Housing Court Assistant - Launched June 28, 2023
 - [Family Court AI](http://www.familycourtai.com) - AI Powered Family Court Assistant - Launched June 27, 2023 
 - [Caregivers AI](http://www.caregiversai.com) - AI Powered Help and Support for Caregivers, Parents, and Families - Launched June 26, 2023 
