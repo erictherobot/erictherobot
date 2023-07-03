@@ -78,9 +78,15 @@ Unfortunately, several of my IOS apps were recently removed from the app store d
 
 ### (UNITY / C# - VIRTUAL REALITY)
 
+----
+
+- [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE - NEEDS REFRESHING
+
+### (Rust Lang)
+
 ----- 
 
-- [Hang Out VR](https://sidequestvr.com/app/1391) - Let's Hang Out! It's multiplayer. Ping me if trying it.
+- [Zipity Framework](https://crates.io/crates/zipity) - A markdown-based micro web framework built in Rust.
 
 
 ### (VSCode Extensions)
