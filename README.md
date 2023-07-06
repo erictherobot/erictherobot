@@ -21,22 +21,24 @@
 ### (WEB - NEXTJS)
 
 ----
-- [Financial Advisor AI](http://financialadvisorai.vercel.app) - AI Powered Financial Advisor Assistant - Launched July 3, 2023
-- [Career Coaching AI](http://careercoachingai.vercel.app) - AI Powered Career Coaching Assistant - Launched July 2, 2023
-- [Estate Planning AI](http://estateplanningai.vercel.app) - AI Powered Estate Planning Assistant - Launched June 29, 2023
-- [Veterans AI](http://veteransai.vercel.app) - AI Powered Veterans Support Assistant - Launched June 28, 2023
-- [Entomology AI](http://entomologyai.vercel.app) - AI Powered Entomologist Assistant For Kids - Launched June 28, 2023
-- [Housing Court AI](http://www.housingcourtai.com) - AI Powered Housing Court Assistant - Launched June 28, 2023
-- [Family Court AI](http://www.familycourtai.com) - AI Powered Family Court Assistant - Launched June 27, 2023 
-- [Caregivers AI](http://www.caregiversai.com) - AI Powered Help and Support for Caregivers, Parents, and Families - Launched June 26, 2023 
-- [Admit You Have A Problem](http://www.admityouhaveaproblem.com) - AI Powered Therapy - Launched June 25, 2023 
-- [TweetGen AI](http://www.tweetgenai.com) - AI generated tweets to help you grow your audience and brand - Launched June 25, 2023 
-- [Pros And Cons AI](http://www.prosandconsai.com) - AI generated pros and cons for any topic - Launched June 8, 2023 
-- [Azlyn AI](http://azlynai.com) - Interpret Dreams and Visions with AI - Launched June 4, 2023 
-- [Colorful Dots, LLC](http://colorfuldots.com)
-- [Mad Story](http://madstory.com)
-- [Love Is Blank](http://loveisblank.com)
-- [Blannk.com](http://blannk.com)
+- [My Faith AI](https://myfaithai.com) - AI Powered Religion Assistant - Launched July 5, 2023
+- [Copy Writing AI](https://copywritingai.vercel.app) - AI Powered Copywriting Assistant - Launched July 4, 2023
+- [Financial Advisor AI](https://financialadvisorai.vercel.app) - AI Powered Financial Advisor Assistant - Launched July 3, 2023
+- [Career Coaching AI](https://careercoachingai.vercel.app) - AI Powered Career Coaching Assistant - Launched July 2, 2023
+- [Estate Planning AI](https://estateplanningai.vercel.app) - AI Powered Estate Planning Assistant - Launched June 29, 2023
+- [Veterans AI](https://veteransai.vercel.app) - AI Powered Veterans Support Assistant - Launched June 28, 2023
+- [Entomology AI](https://entomologyai.vercel.app) - AI Powered Entomologist Assistant For Kids - Launched June 28, 2023
+- [Housing Court AI](https://www.housingcourtai.com) - AI Powered Housing Court Assistant - Launched June 28, 2023
+- [Family Court AI](https://www.familycourtai.com) - AI Powered Family Court Assistant - Launched June 27, 2023 
+- [Caregivers AI](https://www.caregiversai.com) - AI Powered Help and Support for Caregivers, Parents, and Families - Launched June 26, 2023 
+- [Admit You Have A Problem](https://www.admityouhaveaproblem.com) - AI Powered Therapy - Launched June 25, 2023 
+- [TweetGen AI](https://www.tweetgenai.com) - AI generated tweets to help you grow your audience and brand - Launched June 25, 2023 
+- [Pros And Cons AI](https://www.prosandconsai.com) - AI generated pros and cons for any topic - Launched June 8, 2023 
+- [Azlyn AI](https://azlynai.com) - Interpret Dreams and Visions with AI - Launched June 4, 2023 
+- [Colorful Dots, LLC](https://colorfuldots.com)
+- [Mad Story](https://madstory.com)
+- [Love Is Blank](https://loveisblank.com)
+- [Blannk.com](https://blannk.com)
 
 ### (WEB - DENO)
 
