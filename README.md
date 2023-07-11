@@ -21,6 +21,7 @@
 ### (WEB - NEXTJS)
 
 ----
+- [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
 - [My Faith AI](https://myfaithai.com) - AI Powered Religion Assistant - Launched July 5, 2023
 - [Copy Writing AI](https://copywritingai.vercel.app) - AI Powered Copywriting Assistant - Launched July 4, 2023
 - [Financial Advisor AI](https://financialadvisorai.vercel.app) - AI Powered Financial Advisor Assistant - Launched July 3, 2023
@@ -43,7 +44,6 @@
 ### (WEB - DENO)
 
 ----
-- [Eric David Smith](http://ericdavidsmith.com) - Launched July 1, 2022
 - [How To Program Code](https://howtoprogramcode.com) - Software Development Courses - Launched Sept 30, 2022
 - [Remotely Hiring](http://remotelyhiring.com) - Launched August 1, 2022
 - [Recording The City Records](https://recordingthecity.com) - Launched July 15, 2022
