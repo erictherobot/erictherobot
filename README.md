@@ -22,6 +22,8 @@
 
 ----
 - [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
+- [Recipe Generator AI](https://recipegeneratorai.vercel.app) - AI Powered Meal Planning and Recipe Assistant - Launched July 23, 2023
+- [Entrepreneur AI](https://entrepreneur-ai.vercel.app) - AI Powered Business Advisor Assistant - Launched July 22, 2023
 - [My Faith AI](https://myfaithai.com) - AI Powered Religion Assistant - Launched July 5, 2023
 - [Copy Writing AI](https://copywritingai.vercel.app) - AI Powered Copywriting Assistant - Launched July 4, 2023
 - [Financial Advisor AI](https://financialadvisorai.vercel.app) - AI Powered Financial Advisor Assistant - Launched July 3, 2023
