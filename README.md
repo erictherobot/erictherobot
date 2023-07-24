@@ -99,3 +99,10 @@ Unfortunately, several of my IOS apps were recently removed from the app store d
 ----- 
 
 - [Quote Replacer](https://marketplace.visualstudio.com/items?itemName=EricDavidSmith.quotereplacer) - Replace quotes in VSCode in one simple command.
+
+
+### (NPM Packages)
+
+----- 
+
+- [Create Quick Stack](https://www.npmjs.com/package/create-quick-stack) - A command line tool designed to streamline the initial setup of JavaScript projects. 
