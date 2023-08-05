@@ -22,6 +22,7 @@
 
 ----
 - [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
+- [Investor Pitch AI](https://investorpitchai.com) - AI Powered Investor Pitch Generator - Launched August 05, 2023
 - [Colors AI](https://colorsai.vercel.app) - AI Powered Color Scientist Assistant - Launched July 28, 2023
 - [Songwriter AI - SongSmithAI.com](https://songsmithai.com) - AI Powered Songwriting Assistant - Launched July 24, 2023
 - [Recipe Generator AI](https://recipegeneratorai.vercel.app) - AI Powered Meal Planning and Recipe Assistant - Launched July 23, 2023
