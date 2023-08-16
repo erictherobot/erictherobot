@@ -22,6 +22,7 @@
 
 ----
 - [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
+- [KYWRD AI](https://kywrd.com) - AI Powered SEO Keyword Assistant - Launched August 15, 2023
 - [Anatomist AI](https://anatomistai.com) - AI Powered exploration of humans and animals - Launched August 10, 2023
 - [Investor Pitch AI](https://investorpitchai.com) - AI Powered Investor Pitch Generator - Launched August 05, 2023
 - [Colors AI](https://colorsai.vercel.app) - AI Powered Color Scientist Assistant - Launched July 28, 2023
