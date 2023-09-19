@@ -76,7 +76,7 @@ Unfortunately, several of my IOS apps were recently removed from the app store d
 
 ----
 
-- [Record Bar](https://apps.apple.com/app/record-bar/id6464139706) - Launched September 6, 2023
+- [Record Bar Pro](https://apps.apple.com/app/record-bar-pro/id6465991727) - Launched September 18, 2023
 - [LinkLock Pro](https://apps.apple.com/app/linklock-pro/id6448488822) - Launched April 30, 2023
 
 
