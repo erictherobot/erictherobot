@@ -22,6 +22,7 @@
 
 ----
 - [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
+- [Civil Rights AI](https://civilrightsai.com) - AI Powered Civil Rights Legal Assistant - Launched August 21, 2023
 - [KYWRD AI](https://kywrd.com) - AI Powered SEO Keyword Assistant - Launched August 15, 2023
 - [Anatomist AI](https://anatomistai.com) - AI Powered exploration of humans and animals - Launched August 10, 2023
 - [Investor Pitch AI](https://investorpitchai.com) - AI Powered Investor Pitch Generator - Launched August 05, 2023
@@ -61,8 +62,9 @@
 ### (NATIVE MOBILE - IOS) 
 
 Unfortunately, several of my IOS apps were recently removed from the app store due to lack of updates. Seriously Apple? Thanks for supporting the little indie devs. The apps worked, nothing needed to be updated. Your notification emails went to spam. Some of my first apps are still in the store. Without updates... with even older code. SMH. 
-
 ----
+- [Metal Magnet](https://apps.apple.com/us/app/metal-magnet/id6467579386) - Launched September 27, 2023 
+- [Confetti Clock](https://apps.apple.com/us/app/confetti-clock/id6467073414) - Launched September 25, 2023 
 - [Habit Track Pro](https://apps.apple.com/us/app/habit-track-pro/id6449471898) - Launched May 30, 2023
 - [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
 - [Color My Music](https://apps.apple.com/us/app/color-my-music/id1330987072)
