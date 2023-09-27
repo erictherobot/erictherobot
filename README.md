@@ -59,9 +59,8 @@
 - [Before I Die I](https://beforeidiei.com) - WIP
 - [JOG BUY](https://jogbuy.com) - WIP
 
-### (NATIVE MOBILE - IOS) 
+### (NATIVE MOBILE - IOS SwiftUI) 
 
-Unfortunately, several of my IOS apps were recently removed from the app store due to lack of updates. Seriously Apple? Thanks for supporting the little indie devs. The apps worked, nothing needed to be updated. Your notification emails went to spam. Some of my first apps are still in the store. Without updates... with even older code. SMH. 
 ----
 - [Metal Magnet](https://apps.apple.com/us/app/metal-magnet/id6467579386) - Launched September 27, 2023 
 - [Confetti Clock](https://apps.apple.com/us/app/confetti-clock/id6467073414) - Launched September 25, 2023 
