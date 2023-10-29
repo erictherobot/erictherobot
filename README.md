@@ -76,7 +76,7 @@
 ### (MacOS - SwiftUI)
 
 ----
-
+- [Key Click Pro](https://apps.apple.com/app/key-click-pro/id6470727719) - Launched October 28, 2023
 - [Set Sleep Pro](https://apps.apple.com/app/set-sleep-pro/id6467241693) - Launched September 22, 2023
 - [Record Bar Pro](https://apps.apple.com/app/record-bar-pro/id6465991727) - Launched September 18, 2023
 - [LinkLock Pro](https://apps.apple.com/app/linklock-pro/id6448488822) - Launched April 30, 2023
