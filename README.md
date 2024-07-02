@@ -76,10 +76,11 @@
 ### (MacOS - SwiftUI)
 
 ----
-- [Key Click Pro](https://apps.apple.com/app/key-click-pro/id6470727719) - Launched October 28, 2023
-- [Set Sleep Pro](https://apps.apple.com/app/set-sleep-pro/id6467241693) - Launched September 22, 2023
+- [Gratitude Gate](https://apps.apple.com/us/app/gratitude-gate/id6504729965) - Launched July 1, 2024
+- [Key Click Pro](https://apps.apple.com/app/key-click-pro/id6470727719) - Updated May 28, 2024
+- [Set Sleep Pro](https://apps.apple.com/app/set-sleep-pro/id6467241693) - Updated June 22, 2024
 - [Record Bar Pro](https://apps.apple.com/app/record-bar-pro/id6465991727) - Launched September 18, 2023
-- [LinkLock Pro](https://apps.apple.com/app/linklock-pro/id6448488822) - Launched April 30, 2023
+- [LinkLock Pro](https://apps.apple.com/app/linklock-pro/id6448488822) - Updated June 30, 2024
 
 
 ### (WEB - SVELTE)
