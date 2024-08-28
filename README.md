@@ -16,7 +16,7 @@
 - [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
 - [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
 
-## SOLO / WEEKEND PROJECTS
+## WEEKEND PROJECTS
 
 ### (WEB - NEXTJS)
 
@@ -93,24 +93,24 @@
 
 ----
 
-- [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE - NEEDS REFRESHING
+- [Hang Out on SideQuest VR](https://sidequestvr.com/app/1391/hang-out) - My first Unity VR App
 
 ### (Rust Lang)
 
------ 
+---- 
 
 - [Zipity Framework](https://crates.io/crates/zipity) - A markdown-based micro web framework built in Rust.
 
 
 ### (VSCode Extensions)
 
------ 
+----
 
 - [Quote Replacer](https://marketplace.visualstudio.com/items?itemName=EricDavidSmith.quotereplacer) - Replace quotes in VSCode in one simple command.
 
 
 ### (NPM Packages)
 
------ 
+----
 
 - [Create Quick Stack](https://www.npmjs.com/package/create-quick-stack) - A command line tool designed to streamline the initial setup of JavaScript projects. 
