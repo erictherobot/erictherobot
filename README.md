@@ -1,6 +1,6 @@
 # ERIC DAVID SMITH
 
-> Building things every day. I am self taught. This means I am continually learning and making new mistakes every day. I'm grateful and proud of this mindset. This mindset has made me more of a generalist rather than a specialist. 
+> I build things every day, driven by a self-taught approach. This means I'm constantly learning and embracing new challenges. I'm grateful for this mindset, as it has shaped me into a generalist rather than a specialist, and I'm proud of the versatility it brings.
 
 <!--
 ### My GitHub Stats
