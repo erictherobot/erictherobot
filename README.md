@@ -1,116 +1,30 @@
-# ERIC DAVID SMITH
-
-> I build things every day, driven by a self-taught approach. This means I'm constantly learning and embracing new challenges. I'm grateful for this mindset, as it has shaped me into a generalist rather than a specialist, and I'm proud of the versatility it brings.
-
-<!--
-### My GitHub Stats
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=erictherobot&" alt="erictherobot" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=erictherobot&show_icons=true&locale=en" alt="erictherobot" />
-</div>
--->
-
-#### Youtube Videos
-
-- [YouTube](https://www.youtube.com/ericdavidsmith) - Music + Code === ❤️
-- [YouTube](https://www.youtube.com/c/howtoprogramcode) - How To Program Code
-- [YouTube](https://www.youtube.com/c/howtorecordmusic) - How To Record Music
-
-## WEEKEND PROJECTS
-
-### (WEB - NEXTJS)
-
-----
-- [Eric David Smith](http://ericdavidsmith.com) - Launched July 10, 2023
-- [Civil Rights AI](https://civilrightsai.com) - AI Powered Civil Rights Legal Assistant - Launched August 21, 2023
-- [KYWRD AI](https://kywrd.com) - AI Powered SEO Keyword Assistant - Launched August 15, 2023
-- [Anatomist AI](https://anatomistai.com) - AI Powered exploration of humans and animals - Launched August 10, 2023
-- [Investor Pitch AI](https://investorpitchai.com) - AI Powered Investor Pitch Generator - Launched August 05, 2023
-- [Colors AI](https://colorsai.vercel.app) - AI Powered Color Scientist Assistant - Launched July 28, 2023
-- [Songwriter AI - SongSmithAI.com](https://songsmithai.com) - AI Powered Songwriting Assistant - Launched July 24, 2023
-- [Recipe Generator AI](https://recipegeneratorai.vercel.app) - AI Powered Meal Planning and Recipe Assistant - Launched July 23, 2023
-- [Entrepreneur AI](https://entrepreneur-ai.vercel.app) - AI Powered Business Advisor Assistant - Launched July 22, 2023
-- [My Faith AI](https://myfaithai.com) - AI Powered Religion Assistant - Launched July 5, 2023
-- [Copy Writing AI](https://copywritingai.vercel.app) - AI Powered Copywriting Assistant - Launched July 4, 2023
-- [Financial Advisor AI](https://financialadvisorai.vercel.app) - AI Powered Financial Advisor Assistant - Launched July 3, 2023
-- [Career Coaching AI](https://careercoachingai.vercel.app) - AI Powered Career Coaching Assistant - Launched July 2, 2023
-- [Estate Planning AI](https://estateplanningai.vercel.app) - AI Powered Estate Planning Assistant - Launched June 29, 2023
-- [Veterans AI](https://veteransai.vercel.app) - AI Powered Veterans Support Assistant - Launched June 28, 2023
-- [Entomology AI](https://entomologyai.vercel.app) - AI Powered Entomologist Assistant For Kids - Launched June 28, 2023
-- [Housing Court AI](https://www.housingcourtai.com) - AI Powered Housing Court Assistant - Launched June 28, 2023
-- [Family Court AI](https://www.familycourtai.com) - AI Powered Family Court Assistant - Launched June 27, 2023 
-- [Caregivers AI](https://www.caregiversai.com) - AI Powered Help and Support for Caregivers, Parents, and Families - Launched June 26, 2023 
-- [Admit You Have A Problem](https://www.admityouhaveaproblem.com) - AI Powered Therapy - Launched June 25, 2023 
-- [TweetGen AI](https://www.tweetgenai.com) - AI generated tweets to help you grow your audience and brand - Launched June 25, 2023 
-- [Pros And Cons AI](https://www.prosandconsai.com) - AI generated pros and cons for any topic - Launched June 8, 2023 
-- [Azlyn AI](https://azlynai.com) - Interpret Dreams and Visions with AI - Launched June 4, 2023 
-- [Colorful Dots, LLC](https://colorfuldots.com)
-- [Mad Story](https://madstory.com)
-- [Love Is Blank](https://loveisblank.com)
-- [Blannk.com](https://blannk.com)
-
-### (WEB - DENO)
-
-----
-- [How To Program Code](https://howtoprogramcode.com) - Software Development Courses - Launched Sept 30, 2022
-- [Remotely Hiring](http://remotelyhiring.com) - Launched August 1, 2022
-- [Recording The City Records](https://recordingthecity.com) - Launched July 15, 2022
-- [Jabberwocky Project](https://jabberwockyproject.com) - $100+ billion valuation :) - Launched July 20, 2022
-- [Before I Die I](https://beforeidiei.com) - WIP
-- [JOG BUY](https://jogbuy.com) - WIP
-
-### (NATIVE MOBILE - IOS SwiftUI) 
-
-----
-- [Metal Magnet](https://apps.apple.com/us/app/metal-magnet/id6467579386) - Launched September 27, 2023 
-- [Confetti Clock](https://apps.apple.com/us/app/confetti-clock/id6467073414) - Launched September 25, 2023 
-- [Habit Track Pro](https://apps.apple.com/us/app/habit-track-pro/id6449471898) - Launched May 30, 2023
-- [Odd Poems](https://apps.apple.com/us/app/odd-poems/id1419205545)
-- [Color My Music](https://apps.apple.com/us/app/color-my-music/id1330987072)
-- [Mad Story](https://apps.apple.com/us/app/mad-story/id1433966606)
-- [Randy Random](https://apps.apple.com/us/app/randy-random/id1291800782)
-- [Odd Gifs](https://apps.apple.com/us/app/odd-gifs/id1422519130)
-- [Awesome List](https://apps.apple.com/us/app/awesome-list/id1318781522)
-- [Why Eleven](https://apps.apple.com/us/app/whyeleven/id1234009359)
-
-### (MacOS - SwiftUI)
-
-----
-- [Gratitude Gate](https://apps.apple.com/us/app/gratitude-gate/id6504729965) - Launched July 1, 2024 - Reached #4 Top Paid Apps in Health & Fitness on Apple App Store
-- [Key Click Pro](https://apps.apple.com/app/key-click-pro/id6470727719) - Updated May 28, 2024
-- [Set Sleep Pro](https://apps.apple.com/app/set-sleep-pro/id6467241693) - Updated June 22, 2024
-- [Record Bar Pro](https://apps.apple.com/app/record-bar-pro/id6465991727) - Launched September 18, 2023
-- [LinkLock Pro](https://apps.apple.com/app/linklock-pro/id6448488822) - Updated June 30, 2024
-
-
-### (WEB - SVELTE)
+# Eric David Smith
+Father / Software Engineer / Musician / Entrepreneur
 
 ----
 
-- [SvelteIt](http://docs.svelteit.dev) - OPEN SOURCE - NEEDS REFRESHING
+👋 Hi there! I'm [Eric David Smith](http://ericdavidsmith.com), a passionate software engineer, problem-solver, and lifelong learner. With over 20 years of experience in software development, I have a deep love for building innovative applications that push the boundaries of what's possible. My work spans across mobile, web, VR, and desktop applications, always with a focus on user experience, performance and efficient, clean code. 
 
-### (UNITY / C# - VIRTUAL REALITY)
+I enjoy building. I do not enjoy maintaining, but it comes with the territory.
 
-----
+## 🚀 Current Projects
+- https://colorfuldots.com - several iOS, macOS, watchOS, and visionOS apps. And a suite of experimental AI Tools that are helping me and others with daily life.
+- https://ericdavidsmith.com - Blog and stuff.
 
-- [Hang Out on SideQuest VR](https://sidequestvr.com/app/1391/hang-out) - My first Unity VR App
+## 💡 Skills & Technologies
+- **Languages**: Swift, TypeScript, JavaScript, Python, Rust, C++
+- **Frameworks**: SwiftUI, Next.js, Tailwind CSS, Custom
+- **Tools**: Xcode, VSCode, Git, Bash
+- **Platforms**: iOS, macOS, watchOS, visionOS, Web
 
-### (Rust Lang)
+## 📖 My Journey
+I've always been driven by curiosity and the desire to create. Over the years, I've had the opportunity to work on a variety of projects, from building large-scale web applications to crafting niche productivity tools. My approach is deeply rooted in the belief that technology should empower people to do more and think creatively.
 
----- 
+I believe in continuous learning and enjoy exploring new tools and frameworks that can enhance my development process.
 
-- [Zipity Framework](https://crates.io/crates/zipity) - A markdown-based micro web framework built in Rust.
+## 📫 Let's Connect
+- **Website**: [ericdavidsmith.com](http://ericdavidsmith.com)
+- **GitHub**: [github.com/ericdavidsmith](https://github.com/erictherobot)
+- **LinkedIn**: [linkedin.com/in/ericdavidsmith](https://linkedin.com/in/erictherobot)
 
-
-### (VSCode Extensions)
-
-----
-
-- [Quote Replacer](https://marketplace.visualstudio.com/items?itemName=EricDavidSmith.quotereplacer) - Replace quotes in VSCode in one simple command.
-
-
-### (NPM Packages)
-
-----
-
-- [Create Quick Stack](https://www.npmjs.com/package/create-quick-stack) - A command line tool designed to streamline the initial setup of JavaScript projects. 
+Feel free to explore my repositories, fork projects, and reach out if you're interested in collaboration or just want to chat about tech!
