@@ -23,8 +23,7 @@ I've always been driven by curiosity and the desire to create. Over the years, I
 I believe in continuous learning and enjoy exploring new tools and frameworks that can enhance my development process.
 
 ## 📫 Let's Connect
-- **Website**: [ericdavidsmith.com](http://ericdavidsmith.com)
-- **GitHub**: [github.com/ericdavidsmith](https://github.com/erictherobot)
-- **LinkedIn**: [linkedin.com/in/ericdavidsmith](https://linkedin.com/in/erictherobot)
+- **LinkedIn**: [linkedin.com/in/erictherobot](https://linkedin.com/in/erictherobot)
+- **X**: [x.com/erictherobot](https://x.com/erictherobot)
 
 Feel free to explore my repositories, fork projects, and reach out if you're interested in collaboration or just want to chat about tech!
